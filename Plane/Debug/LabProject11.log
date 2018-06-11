@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+  GameFramework.cpp
+  GameObject.cpp
+  LabProject11.cpp
+  Player.cpp
+  Scene.cpp
+  Shader.cpp
+c:\users\지동\desktop\3d\plane\shader.cpp(257): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\지동\desktop\3d\plane\shader.cpp(258): warning C4805: '==': 연산에 'bool' 형식과 'float' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\지동\desktop\3d\plane\shader.cpp(261): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\지동\desktop\3d\plane\shader.cpp(263): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\지동\desktop\3d\plane\labproject11.cpp(66): warning C4715: 'wWinMain': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  LabProject11.vcxproj -> C:\Users\지동\Desktop\3D\Plane\Debug\LabProject11.exe
